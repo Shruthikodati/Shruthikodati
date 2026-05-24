@@ -9,6 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+%7C+New+Grad;Data+%26+Backend+Enthusiast;Building+things+that+matter+%F0%9F%92%BB)](https://git.io/typing-svg)
 
+### 🌐 [View My Portfolio](https://shruthi-kodati-portfolio.vercel.app/)
+
 </div>
 
 ---
@@ -22,6 +24,7 @@ I'm a **Full-Stack Software Developer** and new grad with **8 months of hands-on
 - 🌱 Currently leveling up in **Distributed Systems**, **ML Engineering**, and **Cloud Architecture**
 - 💡 Passionate about end-to-end product development — from database schema to polished UI
 - ⚡ Fun fact: I've implemented **end-to-end encryption** using the Signal Protocol (X3DH + Double Ratchet)!
+- 🌐 Check out my work: **[shruthi-kodati-portfolio.vercel.app](https://shruthi-kodati-portfolio.vercel.app/)**
 
 ---
 
