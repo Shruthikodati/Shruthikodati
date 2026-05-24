@@ -101,35 +101,6 @@ I'm a **Full-Stack Software Developer** and new grad with **8 months of hands-on
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shruthikodati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthikodati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shruthikodati&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shruthikodati&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
 
@@ -143,6 +114,6 @@ I'm actively seeking **Full-Stack**, **Software Developer**, and **Data Engineer
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"First, solve the problem. Then, write the code." - John Johnson*
 
 </div>
