@@ -137,9 +137,9 @@ I'm a **Software Engineer** and new grad with hands-on experience building moder
 
 I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer** roles. Let's build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruthi-kodati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shruthi-kodati-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruthikodati24@gmail.com)
+<a href="https://www.linkedin.com/in/shruthi-kodati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://shruthi-kodati-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:shruthikodati24@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
