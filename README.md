@@ -7,16 +7,16 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 <h1>Hi, I'm Shruthi Kodati</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+%7C+New+Grad;Data+%26+Backend+Enthusiast;Building+things+that+matter+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+E[...]
 
-**Currently open to:** `Full-Stack` · `Software Engineering` · `Data Engineering` roles
+**Currently open to:** `Software Engineer` · `Data Analyst` · `AI/ML Engineer` · `Web Developer` roles
 
 <br>
 
 | | |
 |:---|:---|
 | 🎓 **Education** | MS Computer Science · University of Illinois Chicago · GPA 3.6/4.0 |
-| 💼 **Role** | Full-Stack Engineer · Software Engineer · Data Engineer |
+| 💼 **Role** | Software Engineer · Data Analyst · AI/ML Engineer · Web Developer |
 | 🏆 **Publication** | ACM Peer-Reviewed · Fairness in Targeted Advertisements |
 | 📍 **Status** | Open to work · Available immediately |
 | 🌐 **Portfolio** | [shruthi-kodati-portfolio.vercel.app](https://shruthi-kodati-portfolio.vercel.app/) |
@@ -28,7 +28,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♀️ About Me
 
-I'm a **Full-Stack Software Developer** and new grad with **8 months of hands-on experience** building modern, scalable web applications — from relational schema design to CI/CD cloud deployment.
+I'm a **Software Engineer** and new grad with hands-on experience building modern, scalable web applications — from relational schema design to CI/CD cloud deployment.
 
 - 🔭 I love turning complex problems into clean, efficient solutions
 - 🌱 Currently leveling up in **Distributed Systems**, **ML Engineering**, and **Cloud Architecture**
@@ -137,9 +137,9 @@ I'm a **Full-Stack Software Developer** and new grad with **8 months of hands-on
 
 <div align="center">
 
-I'm actively seeking **Full-Stack**, **Software Developer**, and **Data Engineering** roles. Let's build something great together!
+I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer**, and **Web Developer** roles. Let's build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/shruthi-kodati/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBh[...]
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shruthi-kodati-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruthikodati24@gmail.com)
 
