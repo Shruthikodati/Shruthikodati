@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Shruthikodati&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 <h1>Hi, I'm Shruthi Kodati</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer;Data+Analyst;AI%2FML+Engineer)](https://github.com/Shruthikodati)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+💻;Data+Analyst+📊;AI%2FML+Engineer+🤖;Web+Developer+🌐)]
 
 <br>
 
@@ -137,7 +134,7 @@ I'm a **Software Engineer** and new grad with hands-on experience building moder
 
 I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer** roles. Let's build something great together!
 
-<a href="https://www.linkedin.com/in/shruthi-kodati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTggMTFWMjFIMlY4aDE2djNoMi0yVjhIMTZ6TTAgOEgxMlY1SDZ6IE0xNiAxMWgzVjVoLTN6Ii8+PGNpcmNsZSBjeD0iMTkiIGN5PSIzIiByPSIyIi8+PC9zdmc%2B" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/shruthi-kodati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjc3Ny0xLjQ4IDIuNjMzLTMuMDM3IDUuNDEtMy4wMzcgNS43ODUgMCA2Ljg1NiAzLjgwNCA2Ljg1NiA4Ljc2djEwLjkzek0yLjU2NiA3LjY2NmMtMS4xNDQgMC0yLjA2My0uOTI3LTIuMDYzLTIuMDY3IDAtMS4xNDEuOTE5LTIuMDY3IDIuMDYzLTIuMDY3IDEuMTQxIDAgMi4wNjQuOTI2IDIuMDY0IDIuMDY3IDAgMS4xNC0uOTIzIDIuMDY3LTIuMDY0IDIuMDY3em0xLjc4MyAxMi45NjlIMC43ODNWOWgzLjU2NnYxMS42MzV6TTIyLjMxNyAwSC4yNEMuMDc2IDAgMCAuMDc2IDAgLjI0djIzLjUyYzAgLjE2My4wNzYuMjQuMjQtLjI0aDIzLjQ0YzEuNjMgMCAuMjQtLjA3Ny4yNC0uMjRWLjI0QzIzLjU1Ni4wNzYgMjMuODk3IDAgMjIuMzE3IDB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
 <a href="https://shruthi-kodati-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:shruthikodati24@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
