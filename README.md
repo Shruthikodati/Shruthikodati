@@ -135,7 +135,7 @@ I'm a **Software Engineer** and new grad with hands-on experience building moder
 
 <div align="center">
 
-I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer**, and **Web Developer** roles. Let's build something great together!
+I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer** roles. Let's build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruthi-kodati/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shruthi-kodati-portfolio.vercel.app/)
