@@ -137,7 +137,7 @@ I'm a **Software Engineer** and new grad with hands-on experience building moder
 
 I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer** roles. Let's build something great together!
 
-<a href="https://www.linkedin.com/in/shruthi-kodati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/shruthi-kodati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTggMTFWMjFIMlY4aDE2djNoMi0yVjhIMTZ6TTAgOEgxMlY1SDZ6IE0xNiAxMWgzVjVoLTN6Ii8+PGNpcmNsZSBjeD0iMTkiIGN5PSIzIiByPSIyIi8+PC9zdmc%2B" alt="LinkedIn"></a>
 <a href="https://shruthi-kodati-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:shruthikodati24@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
