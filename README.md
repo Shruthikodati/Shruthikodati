@@ -9,17 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer;Data+Analyst;AI%2FML+Engineer)](https://github.com/Shruthikodati)
 
-**Currently open to:** `Software Engineer` · `Data Analyst` · `AI/ML Engineer` · `Web Developer` roles
-
-<br>
-
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruthikodati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shruthi-kodati-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruthikodati24@gmail.com)
-
 <br>
 
 | | |
@@ -141,4 +130,19 @@ I'm a **Software Engineer** and new grad with hands-on experience building moder
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 📬 Connect With Me
+
+<div align="center">
+
+I'm actively seeking **Software Engineer**, **Data Analyst**, **AI/ML Engineer**, and **Web Developer** roles. Let's build something great together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruthikodati/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shruthi-kodati-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruthikodati24@gmail.com)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
 *"First, solve the problem. Then, write the code." - John Johnson*
+
+</div>
