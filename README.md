@@ -4,10 +4,6 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 <h1>Hi, I'm Shruthi Kodati</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+💻;Data+Analyst+📊;AI%2FML+Engineer+🤖;Web+Developer+🌐)]
-
-<br>
-
 | | |
 |:---|:---|
 | 🎓 **Education** | MS Computer Science · University of Illinois Chicago · GPA 3.6/4.0 |
